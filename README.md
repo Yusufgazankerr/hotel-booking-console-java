@@ -1,3 +1,6 @@
+**Status:**  V1 Completed  
+**Type:** Portfolio / Learning Project
+
 # Hotel Room Booking Console App (Java + SQLite)
 
 A small but fully structured **hotel room booking system** written in Java, using a clean layered architecture and SQLite for persistence.
